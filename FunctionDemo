@@ -1,0 +1,27 @@
+def GreetMe(sandhya):
+    print("Good morning"+ sandhya)
+    #function call
+
+
+GreetMe("sandhya")  #Good morningjanki
+
+print("********************")
+
+def Addintegers(a,b):
+    print(a+b)
+
+Addintegers(2,3)
+
+print("*******************")
+def Addintegers(a,b):
+    return a+b
+
+print(Addintegers(2,3))
+
+
+
+
+
+
+
+
