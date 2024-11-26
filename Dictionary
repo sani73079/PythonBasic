@@ -1,0 +1,9 @@
+dic = {"b":2, 4:"sanh","c":"sjhjcg", "a":4.5 }
+print(dic["b"])
+#int float, sting
+
+#
+dict = {}
+dict["fisrtname"]="sandhya"
+dict["lastname"]= "singh"
+print(dict) #{'fisrtname': 'sandhya', 'lastname': 'singh'}
